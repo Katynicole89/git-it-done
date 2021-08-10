@@ -26,7 +26,6 @@ var getUserRepos = function(user) {
             console.log(data);
         });
     });
- 
 };
 
 userFormEl.addEventListener("submit", formSubmitHandler);
